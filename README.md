@@ -29,7 +29,7 @@ Realizar nuestros eventos, meetups y actividades no sería posible sin la ayuda 
 * [Central Pizza Chile](https://www.centralpizzachile.cl/)
 
 ## Comunidades Asociadas
-A diferencia de otras comunidades, nuestro objetivo es colaborar y trabajar en conjunto con otras comunidades, crea en conjunto valor hacia y desde los desarrolladores.
+A diferencia de otras comunidades, nuestro objetivo es colaborar y trabajar en conjunto con otras comunidades, creando en conjunto valor hacia y desde los desarrolladores.
 
 * [Desafío Latam](http://desafiolatam.com/)
 * [Big Data & Data Science Chile](https://www.facebook.com/groups/big.data.science.chile/)
@@ -37,6 +37,12 @@ A diferencia de otras comunidades, nuestro objetivo es colaborar y trabajar en c
 * [Club Arduino](https://www.facebook.com/clubarduino.cl/)
 * [ProgramadoresChile](https://www.facebook.com/groups/programadoreschile.org/)
 * [Pro-Gramadores](https://www.facebook.com/pgramadores/)
+
+## Redes Oficiales
+
+* [Grupo Facebook](https://www.facebook.com/groups/DevCSantiago/)
+* [Meetup Oficial](https://www.meetup.com/es-ES/Facebook-Developer-Circle-Santiago/)
+* [Github Oficial](https://github.com/facebook-developer-circle-santiago) (Solicita acceso!)
 
 ## Continúa
 Ahora que ya nos conoces, te aconsejamos leer nuestros documentos oficiales, revisar los meetups realizados y los materiales compartidos.
