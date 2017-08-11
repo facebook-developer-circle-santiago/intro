@@ -9,4 +9,4 @@ Las siguientes normas y códigos de conducta se refieren al comportamiento que s
 4. La comunicación debe ser constructiva y ningún miembro debe compartir spam o contenido inapropiado o insultante. 
 5. Ayuda, colabora, sé paciente y cordial con los miembros del grupo que no tienen tu mismo nivel de conocimiento.
 
-### 
+**El no respetar las normas aquí descritas pueden dar a la expulsión del usuario de todas las redes oficiales de la comunidad**
