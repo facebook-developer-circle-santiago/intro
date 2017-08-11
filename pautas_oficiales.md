@@ -4,13 +4,13 @@ Las pautas te ayudarán a realizar publicaciones dentro del Grupo de Facebook de
 ### ¿Qué publicar?
 En general se espera que los miembros compartan elementos relevantes y que sean de ayuda a la comunidad, esto incluye:
 
-**Noticias**
+**Noticias** 
 Noticias relevantes a la industria del desarrollo informático (programación, diseño, marketing, etc).
 
-**Preguntas**
+**Preguntas** 
 Todas las preguntas, dudas, consultas referente a la industria del desarrollo informático son bienvenidas. Esto incluye desde consultas de programación, ayuda para realizar un proyecto, etc.
 
-**Proyectos**
+**Proyectos** 
 Se pueden compartir proyectos propios o externos, startups, códigos colaborativos y empresas que puedan ser de interes a la comunidad. Sin embargo, este tipo de contenido se evaluará para corroborar que no sea SPAM.
 
 **Ofertas Laborales**
