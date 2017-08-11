@@ -3,7 +3,7 @@ Developer Circles de Facebook es un programa diseñado para crear comunidades de
 
 ## ¿Quiénes organizan Developer Circle Santiago?
 
-1. [Pat Cornejo] (http://patcornejo.ai) | Lead
+1. [Pat Cornejo](http://patcornejo.ai) | Lead
 2. Fran Varela                          | Co-lead
 3. Néstor Carrasco                      | Co-lead
 4. Marcela Orellana                     | Voluntaria
