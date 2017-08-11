@@ -1,11 +1,26 @@
 # Facebook Developer Circle Santiago
-Bienvenidos a DevC Santiago, a través del siguiente documento expondremos los elementos principales que conforman nuestra comunidad. Te solicitamos leerlo y así ser parte activa del Círculo de Desarrolladores de Santiago.
-
-## ¿Qué es Facebook Developer Circle?
 Developer Circles de Facebook es un programa diseñado para crear comunidades de desarrolladores organizadas localmente. El fin de estas comunidades es informar y proporcionar un foro para conversar y compartir conocimientos sobre los temas de mayor prioridad para los desarrolladores en un mercado concreto.
 
-## ¿Por qué creo Facebook este programa?
-Facebook es una empresa que creció a partir de una comunidad de desarrolladores. Por lo tanto, el objetivo del programa Developer Circles es fortalecer a los desarrolladores locales a escala global. Para ello, creamos comunidades a fin de que los desarrolladores colaboren, compartan conocimientos y se beneficien del intercambio de información de los productos y servicios, así como de las prácticas recomendadas establecidas por Facebook.
+## ¿Quiénes organizan Developer Circle Santiago?
+
+1. [Pat Cornejo] (http://patcornejo.ai) | Lead
+2. Fran Varela                          | Co-lead
+3. Néstor Carrasco                      | Co-lead
+4. Marcela Orellana                     | Voluntaria
+5. Koni Altamirano                      | Voluntaria
+6. Fran Ruiz Tagle                      | Voluntaria
+7. Emma Vicini                          | Voluntaria
+8. Vanessa Pellegrini                   | Voluntaria
+9. Leslie Chevasco                      | Voluntaria
+10. Sergio Correa                       | Voluntario
+11. Pablo Coatts                        | Voluntario
+12. Nicolás Muñoz                       | Voluntario
+13. Gonzalo Fernández                   | Content Maker
+
+## Partners
+
+
+## Comunidades Asociadas
 
 ## Normas Generales
 Las siguientes normas y códigos de conducta se refieren al comportamiento que se espera de los miembros/usuarios dentro de la comunidad, incluyendo: **Grupo de Facebook**, **Meetup Oficial**, **Slack**, **Hangouts** y cualquier otro medio de comunicación e interacción referente a **Facebook Developer Circle Santiago**.
