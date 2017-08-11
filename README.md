@@ -3,19 +3,19 @@ Developer Circles de Facebook es un programa diseñado para crear comunidades de
 
 ## Organizadores
 
-* [Pat Cornejo](http://patcornejo.ai)  - Lead
-* Fran Varela - Co-lead
-* Néstor Carrasco - Co-lead
-* Marcela Orellana - Voluntaria
-* Koni Altamirano - Voluntaria
-* Fran Ruiz Tagle - Voluntaria
-* Emma Vicini - Voluntaria
-* Vanessa Pellegrini - Voluntaria
-* Leslie Chevasco - Voluntaria
-* Sergio Correa - Voluntario
-* Pablo Coatts - Voluntario
-* Nicolás Muñoz - Voluntario
-* Gonzalo Fernández - Content Maker
+* [Pat Cornejo](https://www.facebook.com/patcornejoai)  - Lead
+* [Fran Varela](https://www.facebook.com/franvarela) - Co-lead
+* [Néstor Carrasco](https://www.facebook.com/NestorCarrasco) - Co-lead
+* [Marcela Orellana](https://www.facebook.com/marcelapaz.1985) - Voluntaria
+* [Koni Altamirano](https://www.facebook.com/KoniAltamiranoL) - Voluntaria
+* [Fran Ruiz Tagle](https://www.facebook.com/francisca.ruiztagle1) - Voluntaria
+* [Emma Vicini](https://www.facebook.com/emma.vicini) - Voluntaria
+* [Vanessa Pellegrini](https://www.facebook.com/vann.pellegrini) - Voluntaria
+* [Leslie Chevasco](https://www.facebook.com/yeyo.gaiche) - Voluntaria
+* [Sergio Correa](https://www.facebook.com/sergio.correa) - Voluntario
+* [Pablo Coatts](https://www.facebook.com/Coatts) - Voluntario
+* [Nicolás Muñoz](https://www.facebook.com/nicolas.munozbe) - Voluntario
+* [Gonzalo Fernández](https://www.facebook.com/DevTotal) - Content Maker
 
 ## Partners
 Realizar nuestros eventos, meetups y actividades no sería posible sin la ayuda de Partners que participan activamente de la comunidad ya sea colocan lugar, comida o convocatoria.
