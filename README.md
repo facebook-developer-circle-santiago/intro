@@ -42,7 +42,7 @@ A diferencia de otras comunidades, nuestro objetivo es colaborar y trabajar en c
 Ahora que ya nos conoces, te aconsejamos leer nuestros documentos oficiales, revisar los meetups realizados y los materiales compartidos.
 
 * [Normas Generales](./normas_generales.md)
-* [Pauta Oficial][./pauta_oficial.md]
+* [Pauta Oficial](./pauta_oficial.md)
 * [Meetups Realizados](./meetups.md)
 * [Material Compartido](./recursos.md)
 
